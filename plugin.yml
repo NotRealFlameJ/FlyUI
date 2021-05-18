@@ -1,0 +1,17 @@
+name: FlyUI
+version: 1.0
+main: JhoroseYT\FlyUI\Main
+author: JhoroseYT
+api:
+- 4.0.0
+- 3.0.0
+
+commands:
+  flyui:
+    permission: "fly.use"
+    description: "FlyUI use hehe"
+    
+permissions:
+ fly.use:
+  default: op
+  description: "fly.use permission"
